@@ -1,14 +1,14 @@
 # Web-NodeJS-ReactJS
-Exercícios Joseff
+**Exercícios Joseff**
 
-Alunos:
+**Alunos:**
 https://github.com/trvicius/Aluno-Frontend
 
 https://github.com/trvicius/Aluno-BackEnd
 
 Link Heroku: https://alunofrontend.herokuapp.com/
 
-Tarefas:
+**Tarefas:**
 https://github.com/trvicius/Frontend-Tarefas
 
 https://github.com/trvicius/Tarefas-Backend
